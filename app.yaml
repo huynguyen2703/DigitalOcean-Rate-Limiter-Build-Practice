@@ -1,4 +1,4 @@
-name: do-prototype-app
+name: rate-limiter-app
 region: sfo
 services:
 - name: api
